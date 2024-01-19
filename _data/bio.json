@@ -9,9 +9,8 @@
     "location": { "address": "", "postalCode": "79409", "city": "Lubbock", "countryCode": "USA", "region": "Texas" },
     "profiles": [
       { "network": "github", "username": "cgolden15", "url": "http://github.com/cgolden15" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/c-golden" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/camgoldenn" }
+      { "network": "linkedin", "username": "Cameron Golden", "url": "http://linkedin.com/in/c-golden" },
+      { "network": "instagram", "username": "Camgoldenn", "url": "http://instagram.com/camgoldenn" }
     ]
   },
   "interests": [
@@ -43,13 +42,15 @@
   ],
   "work": [
     {
-      "company": "a",
-      "position": "aq",
-      "website": "a",
-      "startDate": "a",
-      "endDate": "a",
-      "summary": "a",
+      "company": "Shady Brook Farm",
+      "position": "Closing Manager",
+      "website": "https://shadybrookfarm.com/",
+      "startDate": "04-18-21",
+      "endDate": "Current",
+      "summary": "Indoor & Outdoor Closing Manager for Retail and Event Operations",
       "highlights": [
+        "Responsible for leading the closing shift, and evening events",
+        "carry out closing tasks, including reconciling bank deposits and preparing opening balances for opening staff."
       ]
     }
   ],
