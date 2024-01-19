@@ -20,9 +20,11 @@ Here are some images that show some of the models and drawings I created:
 
 
 ![Drawing](../img/seaPerch/horiz-motormount-drawing.png)
+
 *Model drawing using Fusion 360*
 
 ![Model](../img/seaPerch/motormount.png)
+
 *A different motor monut, also in fusion 360*
 
 You can learn more at the [SeaPerch Website](https://seaperch.org).
