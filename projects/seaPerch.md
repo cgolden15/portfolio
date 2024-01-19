@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/seaPerch/seaperch.jpg
 title: "SeaPerch"
 date: 2023
 published: true
@@ -18,7 +18,7 @@ For this project, I was team co-captain and responsible for all 3D design and ma
 
 Here are some images that show some of the models and drawings I created:
 
-![Drawing]()
-![Model]()
+![Drawing](img/seaPerch/horiz-motormount-drawing.png)
+![Model](img/seaPerch/motormount.png)
 
 You can learn more at the [SeaPerch Website](https://seaperch.org).
